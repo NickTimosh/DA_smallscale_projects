@@ -16,7 +16,7 @@ The performed analysis allows to dive deeper into the problem and intend to asse
 The analysis also aims to compare these data with the population of countries and GDP in order to identify existing patterns. 
 This can be useful for benchmarking, forecasting, developing national and sectoral energy managenent plans and issuing other strategical documents and legislative framework related to environmental policy.
 
-![225337781-e5153e21-0492-43a1-8ef1-8ad58dba272b](https://github.com/NickTimosh/python_DA_projects/assets/116592259/088170d3-c545-445f-8d03-e6bbd5266a1c)
+![225337781-e5153e21-0492-43a1-8ef1-8ad58dba272b](https://github.com/NickTimosh/python_DA_projects/assets/116592259/7231583b-9174-4a1c-95e6-07e602caee5a)
 
 ---
 </details>
